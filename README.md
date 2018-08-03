@@ -1,2 +1,22 @@
 # p1rcc-hackathon-documentation
 Documentation for previous projects done on p1RCC
+
+| PROJECT                                                                                                                                          | TEAM                       | START DATE (MM/DD/YYYY) | END DATE (MM/DD/YYYY) |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------------------|-----------------------|
+| Model TCGA-RCC tumors as a “time series” across stage                                                                                            | AIzheng                    | 5/18/2018               | 5/20/2018             |
+| Candidate p1RCC Biomarkers and environmental factors influencing expression                                                                      | BioMarkers.ai              | 5/18/2018               | 5/20/2018             |
+| Predict/classify a sample cancer type using genetic data with: Unsupervised clustering, Dimensionality reduction, Somatic SNPs, Data exploration | cancer-genome-workbench    | 5/18/2018               | 5/20/2018             |
+| Variational Autoencoder and tSNE clustering                                                                                                      | causalnucleotidenetwork    | 5/18/2018               | 5/20/2018             |
+| Biomarkers to precision drugs                                                                                                                    | codeOmics                  | 5/18/2018               | 5/20/2018             |
+| Identification of neo-antigens present within patient P1RCC sequence data                                                                        | DamTheRiver                | 5/18/2018               | 5/20/2018             |
+| Rigorous variant filtering and target pruning                                                                                                    | DeeperDrugs                | 5/18/2018               | 5/20/2018             |
+| Netflix for Genes                                                                                                                                | ExpressForce               | 5/18/2018               | 5/20/2018             |
+| Gene Expression Visualization                                                                                                                    | geviz                      | 5/18/2018               | 5/20/2018             |
+| Prioritizing germline and somatic variants potentially associated with p1RCC                                                                     | GNOME                      | 5/18/2018               | 5/20/2018             |
+| Autoimmune Clues to Kidney Cancer                                                                                                                | HelloKidney                | 5/18/2018               | 5/20/2018             |
+| Genetic Markers                                                                                                                                  | HelloKidney2               | 5/18/2018               | 5/20/2018             |
+| A preliminary case study in EGFR                                                                                                                 | HIF1AIsNotAnOncogene       | 5/18/2018               | 5/20/2018             |
+| Drug candidates towards personal medicine                                                                                                        | KidneyBean                 | 5/18/2018               | 5/20/2018             |
+| How Effective Are Illumina Methods for BGI-SEQ?,(BLOG POST)                                                                                      | RecausalNucleotideNetworks | 5/18/2018               | 5/20/2018             |
+| Using BigQuery for Genomic Data Analysis                                                                                                         | studentec                  | 5/18/2018               | 5/20/2018             |
+| Classifying Tumor Stages based on Structural Variants in Patient Data                                                                            | trimericOGs                | 5/18/2018               | 5/20/2018             |
