@@ -1,5 +1,7 @@
 # p1rcc-hackathon-documentation
-Documentation for previous projects done on p1RCC
+### Documentation for previous projects done on p1RCC
+
+**Two important details: (1) The project link dives into the interpretability of the analysis and results of the project. (2) The team links directs you to the team's github repo and raw code + presentations.** 
 
 | PROJECT                                                                                                                                          | TEAM                       | START DATE (MM/DD/YYYY) | END DATE (MM/DD/YYYY) |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------------------|-----------------------|
